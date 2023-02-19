@@ -6,7 +6,7 @@
 #include "settings.h"
 //#include "SD_MMC.h"
 
-#define BUF_SIZE 3 * 1024 // Had to reduce buffer size to save RAM. GG @spacehuhn
+#define BUF_SIZE 2 * 1024 // Had to reduce buffer size to save RAM. GG @spacehuhn
 #define SNAP_LEN 2324 // max len of each recieved packet
 
 //extern bool useSD;
